@@ -1,0 +1,19 @@
+.feedback-form {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+}
+.box {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.submit-btn-box {
+    text-align: center;
+}
+.submit-btn {
+    width: 100px;
+}

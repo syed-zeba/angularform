@@ -1,0 +1,17 @@
+.submission-form {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+}
+.form-group {
+    margin-bottom: 20px;
+}
+.submit-btn {
+    margin-top: 20px;
+    display: block;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
